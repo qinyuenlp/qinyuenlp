@@ -1,7 +1,7 @@
 <div align="center">
-  <h2>
+  <h1>
     Hi, I'm Qin Yue.
-  </h2>
+  </h1>
   <hr></hr>
   <a href="https://qinynlp.cn/about/">
     <img src="./src/logo/logo.png"><br><br>
