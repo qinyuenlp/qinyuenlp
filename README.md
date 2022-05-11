@@ -2,7 +2,7 @@
   <h1>
     Hi, I'm Qin Yue.
   </h1>
-  <a href="https://qinynlp.cn/about/">
+  <a href="https://qinyuenlp.com/about/">
     <img src="./src/svg/qinyue.svg">
   </a>
   <a href="https://www.zhihu.com/people/tan-yue-36-18">
