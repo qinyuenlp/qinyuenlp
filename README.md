@@ -8,11 +8,6 @@
     		<img src="https://img.shields.io/badge/website-qinyuenlp.com-red">
   		</a>
   </div>
-  <div>
-      <a href="mailto:qinyuenlp@163.com">
-    		<img src="https://img.shields.io/badge/email-qinyuenlp@163.com-blue">
-  		</a>
-  </div>
   <p>
     <b> </b>
   </p>
