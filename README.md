@@ -1,11 +1,11 @@
 <div align="center">
   <h1>
-    Hi, I'm Qin Yue.
+    Qin Yue
   </h1>
   <p><b>An algorithm engineer, NLPer.</b></p>
   <div align="center">
       <a href="https://qinyuenlp.com/about/">
-    		<img src="https://img.shields.io/badge/website-qinyuenlp.com-red">
+    		<img src="https://img.shields.io/badge/website-qinyuenlp.com-blue">
   		</a>
   </div>
   <p>
