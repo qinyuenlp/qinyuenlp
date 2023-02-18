@@ -5,7 +5,7 @@
   <p><b>An algorithm engineer, NLPer.</b></p>
   <div align="center">
       <a href="https://qinyuenlp.com/about/">
-    		<img src="https://img.shields.io/badge/website-qinyuenlp.com-blue">
+    		<img src="https://img.shields.io/badge/home-qinyuenlp.com-blue">
   		</a>
   </div>
   <p>
